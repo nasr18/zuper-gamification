@@ -1,0 +1,21 @@
+{
+  "name": "@nasr18/zuper-api",
+  "version": "1.0.0",
+  "description": "design a gamification system in js",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Node.js",
+    "MongoDB",
+    "Express.js"
+  ],
+  "author": "Mohamed Nasrullah <md_nasrullah@ymail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongoose": "^8.0.1",
+    "morgan": "^1.10.0"
+  }
+}
