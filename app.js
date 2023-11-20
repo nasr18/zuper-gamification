@@ -12,7 +12,7 @@ app.use(express.urlencoded({ extended: false }));
 // API routes
 
 app.get("/", (req, res) => {
-  res.json({ message: "Welcome to Zuper API!" });
+  res.json({ message: "Welcome to Zuper Gamification API!" });
 });
 
 // Get leaderboard for the current month
